@@ -1,0 +1,15 @@
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.csproj.AssemblyReference.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.AssemblyInfoInputs.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.AssemblyInfo.cs
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\bin\Debug\net6.0\Sort_Vyborom.exe
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\bin\Debug\net6.0\Sort_Vyborom.deps.json
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\bin\Debug\net6.0\Sort_Vyborom.runtimeconfig.json
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\bin\Debug\net6.0\Sort_Vyborom.dll
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\bin\Debug\net6.0\Sort_Vyborom.pdb
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.dll
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\refint\Sort_Vyborom.dll
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.pdb
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\Sort_Vyborom.genruntimeconfig.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Vyborom\obj\Debug\net6.0\ref\Sort_Vyborom.dll
